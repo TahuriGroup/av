@@ -24,7 +24,7 @@
 
 ## Requirements
 
-Before running this project, make sure you have installed:
+Before running this project, make sure you have:
 
 - Node.js
 - npm (Node Package Manager)

@@ -14,9 +14,13 @@
 
 **• Auto Apply Booster**
 
+**• Auto Buy Plot**
+
+**• Auto Verify Captcha**
+
 **• Auto Refresh Session**
 
-**• Supports Proxy w/o Proxy**
+**• Supports Proxy & No Proxy**
 
 ## Requirements
 
@@ -25,6 +29,7 @@ Before running this project, make sure you have installed:
 - Node.js
 - npm (Node Package Manager)
 - npx
+- 2captcha key (solver recaptcha v2)
 
 ## Installation
 
@@ -48,7 +53,9 @@ Before running this project, make sure you have installed:
    ```plaintext
    http://username:password@ip:port
 
-5. **Run the script:**
+5. **Edit solver.js if you want custom solver by another solver captcha**
+
+6. **Run the script:**
    ```plaintext
    node main.js
    

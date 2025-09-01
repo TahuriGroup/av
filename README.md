@@ -55,7 +55,9 @@ Before running this project, make sure you have:
 
 5. **Edit solver.js if you want custom solver by other solver captcha**
 
-6. **Run the script:**
+6. **Edit config.json for default seed/booster and enable auto buy default seed and booster**
+
+7. **Run the script:**
    ```plaintext
    node main.js
    

@@ -29,7 +29,7 @@ Before running this project, make sure you have installed:
 - Node.js
 - npm (Node Package Manager)
 - npx
-- 2captcha key (solver recaptcha v2)
+- 2captcha key (edit solver.js)
 
 ## Installation
 

@@ -3,8 +3,8 @@
     "check_captcha_every_minutes": 10,
     "auto_buy_next_plot": true,
     "auto_buy_default_seed": false,
-    "seed_default": "royal-apple",
+    "seed_default": "wheat",
     "auto_buy_default_booster": false,
-    "type_booster": "quantum-fertilizer",
+    "type_booster": "fertiliser",
     "refresh_session_in_hour": 12
 }

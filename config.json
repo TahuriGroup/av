@@ -1,0 +1,10 @@
+{
+    "refresh_game_state_in_seconds": 120,
+    "check_captcha_every_minutes": 10,
+    "auto_buy_next_plot": true,
+    "auto_buy_default_seed": false,
+    "seed_default": "royal-apple",
+    "auto_buy_default_booster": false,
+    "type_booster": "quantum-fertilizer",
+    "refresh_session_in_hour": 12
+}
